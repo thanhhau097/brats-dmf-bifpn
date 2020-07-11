@@ -1,0 +1,4 @@
+train_data_dir: ../data/2018/MICCAI_BraTS_2018_Data_Training
+valid_data_dir: ../data/2018/MICCAI_BraTS_2018_Data_Validation
+test_data_dir: ../data/2018/MICCAI_BraTS_2018_Data_Test
+ckpt_dir: /opt/ml/model/

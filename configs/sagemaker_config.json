@@ -1,0 +1,8 @@
+{
+    "experiment_name": "Training OpenNMT",
+    "manual_seed": 9,
+    "setup": true,
+    "device": "cuda",
+    "requirement_file": "requirements.txt",    
+    "data_zip_file": "/opt/ml/input/data/train/data.zip"
+}
